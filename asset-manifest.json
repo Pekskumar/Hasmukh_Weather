@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hasmukh_Weather/static/css/main.bf7c9751.css",
+    "main.js": "/Hasmukh_Weather/static/js/main.2c8065d0.js",
+    "static/js/787.13d76ca7.chunk.js": "/Hasmukh_Weather/static/js/787.13d76ca7.chunk.js",
+    "index.html": "/Hasmukh_Weather/index.html",
+    "main.bf7c9751.css.map": "/Hasmukh_Weather/static/css/main.bf7c9751.css.map",
+    "main.2c8065d0.js.map": "/Hasmukh_Weather/static/js/main.2c8065d0.js.map",
+    "787.13d76ca7.chunk.js.map": "/Hasmukh_Weather/static/js/787.13d76ca7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf7c9751.css",
+    "static/js/main.2c8065d0.js"
+  ]
+}
